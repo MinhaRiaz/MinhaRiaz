@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Panda Animated Banner -->
-  <img src="https://app.lottiefiles.com/share/60f75920-a4c5-402d-a939-83e9e11b3611" width="400" alt="Panda Coding" style="border-radius: 15px;" />
+  <img src="https://pin.it/3yryK3sDj" width="400" alt="Panda Coding" style="border-radius: 15px;" />
   <br><br>
 
   # 🐼 Minha Riaz 🐼
