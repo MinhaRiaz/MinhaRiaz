@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Panda Animated Banner -->
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTYwNzJtd29kbnE4NnN2dnZocjltNjYwdXNocnJ2ZndudnhwbHZnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eatJu5zA5B18bDFBia/giphy.gif" width="400" alt="Panda Coding" style="border-radius: 15px;" />
+  <img src="https://app.lottiefiles.com/share/60f75920-a4c5-402d-a939-83e9e11b3611" width="400" alt="Panda Coding" style="border-radius: 15px;" />
   <br><br>
 
   # 🐼 Minha Riaz 🐼
