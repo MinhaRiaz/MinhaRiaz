@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Panda Animated Banner -->
-  <img src="https://pin.it/3yryK3sDj" width="400" alt="Panda Coding" style="border-radius: 15px;" />
+  <iframe src="https://assets.pinterest.com/ext/embed.html?id=9359111722668231" height="662" width="450" frameborder="0" scrolling="no" ></iframe>
   <br><br>
 
   # 🐼 Minha Riaz 🐼
