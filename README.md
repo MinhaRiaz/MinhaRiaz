@@ -1,7 +1,7 @@
 <div align="center">
-  <!-- Panda Banner GIF -->
-  <img src="https://media.giphy.com/media/eatJu5zA5B18bDFBia/giphy.gif" width="450" style="border-radius: 15px; box-shadow: 0px 0px 20px rgba(46, 125, 50, 0.4);" /> 
-  <br><br> 
+  <!-- Top Panda Animated Banner -->
+  <img src="https://media.giphy.com/media/eatJu5zA5B18bDFBia/giphy.gif" width="400" style="border-radius: 15px; box-shadow: 0px 0px 20px rgba(46, 125, 50, 0.4);" /> 
+  <br><br>
 
   # 🐼 Minha Riaz 🐼
 
